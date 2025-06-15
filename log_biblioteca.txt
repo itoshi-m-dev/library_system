@@ -1,0 +1,3 @@
+Funcionario Joao, adicionou o livro Princesa e o sapo Funcionario
+Ana pegou o livro Princesa e o sapo Usuario
+Ana devolveu o livro Princesa e o sapo Usuario
